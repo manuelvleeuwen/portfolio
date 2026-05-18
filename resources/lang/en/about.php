@@ -6,7 +6,7 @@ return [
 
     'p1'  => "I'm Manuel van Leeuwen. I'm 21 years old and based in the Netherlands. " .
         'In my free time, I love playing table tennis, hanging out with friends, and of course coding. ' .
-        "Since May this year, I've started with the study Software Developer at Capabel Onderwijs, which I hope to finish by August, 2027",
+        "Since May this year, I've started with the vocational study Software Developer at Capabel Onderwijs, which I hope to finish by August, 2027",
     'p2'  => 'I started coding in 2020 by creating Discord bots. ' .
         'I had almost no programming experience, and I watched some YouTube videos with explanation. ' .
         'Through building Discord bots, I learned JavaScript, Node.js, and eventually TypeScript. ' .
