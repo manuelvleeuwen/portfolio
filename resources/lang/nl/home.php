@@ -3,7 +3,7 @@
 return [
     'title' => 'Home',
     'intro' => "Hoi, ik ben Manuel, een software developer met een passie voor het bouwen van applicaties, " .
-        "of het nu Discord bots, schoolprojecten of full-stack websites zijn. " .
+        "of het nu Discord bots, schoolprojecten, websites of totaal nieuwe dingen zijn. " .
         'Ik verdiep me ook graag in nieuwe technologieën en frameworks.',
     'view_projects'  => 'Bekijk projecten',
     'profile_alt'    => 'Profielfoto van Manuel van Leeuwen',
